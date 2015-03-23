@@ -1,9 +1,9 @@
 {
   "name": "refraction-dark-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
-  "repository": "https://github.com/atom/refraction-dark-syntax",
+  "version": "1.0.0",
+  "description": "A simple dark theme for atom",
+  "repository": "https://github.com/supergithubo/refraction-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
