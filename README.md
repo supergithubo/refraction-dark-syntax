@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-# refraction-dark-syntax theme
-
-A short description of your theme.
-
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
-=======
-# refraction-dark-syntax
+# Refraction Dark Syntax theme
 A dark simple theme for atom
->>>>>>> 3d43ad4fa97bdeb7587cd6a2a23c7fab6f88ab21
+
+![A screenshot of your theme](https://raw.githubusercontent.com/supergithubo/refraction-dark-syntax/92936a8469eaac66a5ac7ea341c2e3185c347ab1/screenshot.png)
