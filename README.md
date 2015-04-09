@@ -1,4 +1,8 @@
 # Refraction Dark Syntax theme
 A dark simple theme for atom
 
-![A screenshot of your theme](https://raw.githubusercontent.com/supergithubo/refraction-dark-syntax/master/screenshot.png)
+* PHP
+![PHP](https://raw.githubusercontent.com/supergithubo/refraction-dark-syntax/master/screenshot.png)
+
+* CSS
+![CSS](https://raw.githubusercontent.com/supergithubo/refraction-dark-syntax/master/screenshot-css.png)
